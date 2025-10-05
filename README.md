@@ -16,7 +16,6 @@ Features:
 
 Insert elements
 Build heap from an array
-Decrease key operation
 Merge two heaps
 Metrics collection (comparisons, swaps, recursive calls, array accesses, memory allocations)
 
@@ -26,4 +25,4 @@ Empty heap
 Single element
 Duplicates
 Build heap from array
-Uncrease-key and extract-max operations
+Increase-key and extract-max operations
